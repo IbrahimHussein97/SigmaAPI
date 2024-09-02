@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35111.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SigmaAPI", "SigmaAPI\SigmaAPI.csproj", "{D9F3DF3A-9A33-4022-B694-2351DF89F5AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SegmaTestUnit", "SegmaTestUnit\SegmaTestUnit.csproj", "{665CFC78-DCF0-4C3B-8AB9-5C731D4FCBD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9F3DF3A-9A33-4022-B694-2351DF89F5AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F3DF3A-9A33-4022-B694-2351DF89F5AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F3DF3A-9A33-4022-B694-2351DF89F5AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F3DF3A-9A33-4022-B694-2351DF89F5AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{665CFC78-DCF0-4C3B-8AB9-5C731D4FCBD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{665CFC78-DCF0-4C3B-8AB9-5C731D4FCBD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{665CFC78-DCF0-4C3B-8AB9-5C731D4FCBD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{665CFC78-DCF0-4C3B-8AB9-5C731D4FCBD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EC1DCA5-CF18-4F43-8965-9C5996175A27}
+	EndGlobalSection
+EndGlobal
